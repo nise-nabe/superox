@@ -1,0 +1,12 @@
+.stage td {
+  width: 36px;
+  height: 36px;
+  border: 2px solid;
+  border-color: red;
+}
+
+.stage {
+  float: left;
+  margin-right: 40px;
+  text-align: center;
+}
